@@ -1,8 +1,7 @@
+<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
 
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/64573386-4b9f-478c-91bc-59fa86ff7f6a"/>
 <br>
 <br> 
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello%2C+my+name+is+Monique+and;+i+am+a+beginner+technology+student)](https://git.io/typing-svg)
 
