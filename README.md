@@ -1,5 +1,11 @@
-### Olá ! Eu sou a Monique 🤓
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monique-silva-4a4438314/)
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/439675b5-8159-4307-ae9c-24d8975d7979"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello%2C+my+name+is+Monique+and;+i+am+a+beginner+technology+student)](https://git.io/typing-svg)
+
+
+
+
+
 
 
 ![Monique GitHub stats](https://github-readme-stats.vercel.app/api?username=MoniqueMSS&show_icons=true&theme=radical)
@@ -15,8 +21,10 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Iniciante em desenvolvimento, apaixonada por aprender e resolver problemas. Explorando o mundo da tecnologia um commit de cada vez.
 
+Iniciante em desenvolvimento, apaixonada por aprender e resolver problemas. Explorando o mundo da tecnologia um commit de cada vez.🤓
 
+### Connect with me 🤙
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monique-silva-4a4438314/)
 
 
