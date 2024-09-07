@@ -8,11 +8,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello%2C+my+name+is+Monique+and;+i+am+a+beginner+technology+student)](https://git.io/typing-svg)
 
 
-<br>
-<br>
-
-<div align="center">
-
 
 
 
